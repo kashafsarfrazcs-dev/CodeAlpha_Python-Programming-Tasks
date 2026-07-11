@@ -105,21 +105,21 @@ A simple rule-based chatbot developed using Python that interacts with users thr
 
 ---
 
-###Repository Structure
+### Repository Structure
+│
 ├── task1.py        # Hangman Game
 ├── task2.py        # Stock Portfolio Tracker
 ├── task3.py        # Automation with Python Scripts
 ├── task4.py        # Basic Chatbot
-└── README.md
----
+└── README.md       # Project Documentation
 
-###Internship Information
+### Internship Information
+
 Organization: CodeAlpha
 Domain: Python Programming
 Completed Tasks: 4 Python Projects
----
 
-###Author
+### Author
+
 Kashaf Sarfraz
 Computer Science Student | Python Programming Enthusiast
----
